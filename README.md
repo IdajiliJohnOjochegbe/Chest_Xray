@@ -100,4 +100,10 @@ Run the script:
 
 python classify_xray.py
 
+## Contributing
 
+Contributions are welcome! Please open an issue to discuss what you would like to change or add. Feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
