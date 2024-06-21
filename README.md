@@ -82,7 +82,7 @@ To use this project, follow these steps:
 
 ### Clone the repository:
 
-git clone https://github.com/yourusername/chest-xray-classification.git
+git clone https://github.com/IdajiliJohnOjochegbe/Chest_Xray/blob/main.git
 
 ### Navigate to the project directory:
 
